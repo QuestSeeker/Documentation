@@ -12,14 +12,6 @@ Used to delete an auth.
 
 **Code** : `204 No Content`
 
-**Content example**
-
-```json
-{
-    "token": "93144b288eb1fdccbe46d6fc0f241a51766ecd3d"
-}
-```
-
 ## Error Response
 
 **Condition** : If 'username' and 'password' combination is wrong.
